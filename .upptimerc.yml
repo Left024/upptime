@@ -20,15 +20,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-      
-NOTIFICATION_EMAIL: true
-NOTIFICATION_EMAIL_SMTP: true
-NOTIFICATION_EMAIL_SMTP_PORT: 465
-NOTIFICATION_EMAIL_SMTP_HOST: smtp.gmail.com
-NOTIFICATION_EMAIL_SMTP_USERNAME: left024
-NOTIFICATION_EMAIL_SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-NOTIFICATION_EMAIL_FROM: left024@gmail.com
-NOTIFICATION_EMAIL_TO: 1379771811@qq.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
