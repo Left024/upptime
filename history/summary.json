@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/lclock.leftapp.pink",
     "slug": "l-clock-document",
     "status": "up",
-    "uptime": "44.80%",
-    "uptimeDay": "44.80%",
-    "uptimeWeek": "44.80%",
-    "uptimeMonth": "44.80%",
-    "uptimeYear": "44.80%",
-    "time": 335,
-    "timeDay": 335,
-    "timeWeek": 335,
-    "timeMonth": 335,
-    "timeYear": 335,
+    "uptime": "72.10%",
+    "uptimeDay": "72.10%",
+    "uptimeWeek": "72.10%",
+    "uptimeMonth": "72.10%",
+    "uptimeYear": "72.10%",
+    "time": 330,
+    "timeDay": 330,
+    "timeWeek": 330,
+    "timeMonth": 330,
+    "timeYear": 330,
     "dailyMinutesDown": {
-      "2021-09-12": 29
+      "2021-09-12": 24
     }
   }
 ]
