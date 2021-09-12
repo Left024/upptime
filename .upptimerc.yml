@@ -22,14 +22,13 @@ sites:
     url: $CLOUDPOWERALL_IP
     port: $CLOUDPOWERALL_PORT
   - name: Racknerd
+    check: "tcp-ping"
     url: $RACKNERD_IP
     port: $RACKNERD_PORT
   - name: QBittorrent
     url: $QBITTORRENT
   - name: Calibre
     url: $CALIBRE
-  - name: Wiki
-    url: https://wiki.left.pink
   - name: ttrss
     url: https://ttrss.left.pink
   - name: mail
