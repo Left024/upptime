@@ -7,6 +7,35 @@ sites:
     url: https://left.pink/
   - name: L-Clock Document
     url: https://lclock.leftapp.pink/
+  - name: Rsshub
+    url: https://rsshub.left.pink/
+  - name: Chevereto
+    url: https://chevereto.left.pink/
+  - name: Vaultwarden
+    url: $BITWARDEN
+  - name: Activation Service
+    url: $ACTIVATION
+  - name: Code Server A
+    url: $CODE_SERVER_A
+  - name: CloudPowerall
+    check: "tcp-ping"
+    url: $CLOUDPOWERALL_IP
+    port: $CLOUDPOWERALL_PORT
+  - name: Racknerd
+    url: $RACKNERD_IP
+    port: $RACKNERD_PORT
+  - name: QBittorrent
+    url: $QBITTORRENT
+  - name: Calibre
+    url: $CALIBRE
+  - name: Wiki
+    url: https://wiki.left.pink
+  - name: ttrss
+    url: https://ttrss.left.pink
+  - name: mail
+    url: https://mail.leftapp.pink
+  - name: Code Server B
+    url: $CODE_SERVER_B
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
