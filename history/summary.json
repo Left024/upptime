@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/lclock.leftapp.pink",
     "slug": "l-clock-document",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 332,
     "timeDay": 195,
     "timeWeek": 309,
@@ -42,54 +42,60 @@
     "url": "https://rsshub.left.pink/",
     "icon": "https://favicons.githubusercontent.com/rsshub.left.pink",
     "slug": "rsshub",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 500,
     "timeDay": 473,
     "timeWeek": 493,
     "timeMonth": 500,
     "timeYear": 500,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-20": 3
+    }
   },
   {
     "name": "Chevereto",
     "url": "https://chevereto.left.pink/",
     "icon": "https://favicons.githubusercontent.com/chevereto.left.pink",
     "slug": "chevereto",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1088,
     "timeDay": 1171,
     "timeWeek": 1080,
     "timeMonth": 1088,
     "timeYear": 1088,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-20": 3
+    }
   },
   {
     "name": "Vaultwarden",
     "url": "$BITWARDEN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vaultwarden",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 508,
     "timeDay": 453,
     "timeWeek": 506,
     "timeMonth": 508,
     "timeYear": 508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-20": 2
+    }
   },
   {
     "name": "Activation Service",
@@ -186,63 +192,69 @@
     "url": "$CALIBRE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "calibre",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 891,
     "timeDay": 912,
     "timeWeek": 878,
     "timeMonth": 891,
     "timeYear": 891,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-20": 2
+    }
   },
   {
     "name": "ttrss",
     "url": "https://ttrss.left.pink",
     "icon": "https://favicons.githubusercontent.com/ttrss.left.pink",
     "slug": "ttrss",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 469,
     "timeDay": 533,
     "timeWeek": 473,
     "timeMonth": 469,
     "timeYear": 469,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-20": 1
+    }
   },
   {
     "name": "mail",
     "url": "https://mail.leftapp.pink",
     "icon": "https://favicons.githubusercontent.com/mail.leftapp.pink",
     "slug": "mail",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 648,
     "timeDay": 792,
     "timeWeek": 650,
     "timeMonth": 648,
     "timeYear": 648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-20": 1
+    }
   },
   {
     "name": "Code Server B",
     "url": "$CODE_SERVER_B",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "code-server-b",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -251,6 +263,8 @@
     "timeWeek": 584,
     "timeMonth": 629,
     "timeYear": 629,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-20": 0
+    }
   }
 ]
