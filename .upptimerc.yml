@@ -25,7 +25,7 @@ sites:
     check: "tcp-ping"
     url: $RACKNERD_IP
     port: $RACKNERD_PORT
-  - name: QBittorrent
+  - name: PT
     url: $QBITTORRENT
   - name: Calibre
     url: $CALIBRE
