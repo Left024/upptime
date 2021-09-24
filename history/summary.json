@@ -188,6 +188,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "BT",
+    "url": "$BT",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "bt",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 199,
+    "timeDay": 199,
+    "timeWeek": 199,
+    "timeMonth": 199,
+    "timeYear": 199,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Calibre",
     "url": "$CALIBRE",
     "icon": "https://favicons.githubusercontent.com/null",
