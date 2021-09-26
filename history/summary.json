@@ -174,36 +174,40 @@
     "url": "$QBITTORRENT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pt",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 495,
     "timeDay": 205,
     "timeWeek": 495,
     "timeMonth": 495,
     "timeYear": 495,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-26": 1
+    }
   },
   {
     "name": "BT",
     "url": "$BT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bt",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 201,
     "timeDay": 135,
     "timeWeek": 201,
     "timeMonth": 201,
     "timeYear": 201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-26": 0
+    }
   },
   {
     "name": "Calibre",
