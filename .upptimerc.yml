@@ -27,8 +27,8 @@ sites:
     port: $RACKNERD_PORT
   - name: PT
     url: $QBITTORRENT
-  - name: PT_C
-    url: $PT2
+  #- name: PT_C
+  #  url: $PT2
   - name: BT
     url: $BT
   - name: Calibre
