@@ -36,7 +36,7 @@ sites:
   - name: ttrss
     url: https://ttrss.left.pink
   - name: mail
-    url: https://mail.leftapp.pink
+    url: $MAIL
   - name: Code Server B
     url: $CODE_SERVER_B
   - name: NeteaseMusicAPI
