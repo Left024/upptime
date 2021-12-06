@@ -15,8 +15,8 @@ sites:
     url: $BITWARDEN
   - name: Activation Service
     url: $ACTIVATION
-  - name: Code Server A
-    url: $CODE_SERVER_A
+  #- name: Code Server A
+  #  url: $CODE_SERVER_A
   - name: CloudPowerall
     check: "tcp-ping"
     url: $CLOUDPOWERALL_IP
@@ -37,8 +37,8 @@ sites:
     url: https://ttrss.left.pink
   - name: mail
     url: $MAIL
-  - name: Code Server B
-    url: $CODE_SERVER_B
+  #- name: Code Server B
+  #  url: $CODE_SERVER_B
   - name: NeteaseMusicAPI
     url: $NETEASE
   - name: Xray
