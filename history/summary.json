@@ -210,11 +210,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bt",
     "status": "up",
-    "uptime": "91.22%",
+    "uptime": "91.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.53%",
-    "uptimeYear": "91.22%",
+    "uptimeYear": "91.23%",
     "time": 160,
     "timeDay": 132,
     "timeWeek": 166,
@@ -280,9 +280,9 @@
     "url": "$MAIL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
@@ -292,6 +292,7 @@
     "timeMonth": 601,
     "timeYear": 612,
     "dailyMinutesDown": {
+      "2021-12-21": 0,
       "2021-11-06": 486,
       "2021-09-20": 18
     }
