@@ -244,11 +244,11 @@
     "url": "$CALIBRE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "calibre",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 861,
     "timeDay": 827,
@@ -256,6 +256,7 @@
     "timeMonth": 855,
     "timeYear": 861,
     "dailyMinutesDown": {
+      "2022-01-06": 2,
       "2021-09-20": 19
     }
   },
@@ -264,10 +265,10 @@
     "url": "https://ttrss.left.pink",
     "icon": "https://favicons.githubusercontent.com/ttrss.left.pink",
     "slug": "ttrss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 511,
@@ -276,6 +277,7 @@
     "timeMonth": 514,
     "timeYear": 511,
     "dailyMinutesDown": {
+      "2022-01-06": 1,
       "2021-09-20": 19
     }
   },
@@ -285,18 +287,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.57%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.57%",
     "time": 666,
     "timeDay": 4196,
     "timeWeek": 1492,
     "timeMonth": 805,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2022-01-06": 16,
+      "2022-01-06": 30,
       "2021-12-21": 187,
       "2021-11-06": 486,
       "2021-09-20": 18
@@ -308,18 +310,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "netease-music-api",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.96%",
     "time": 477,
     "timeDay": 416,
     "timeWeek": 421,
     "timeMonth": 449,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2022-01-06": 41
+      "2022-01-06": 55
     }
   },
   {
