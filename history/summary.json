@@ -68,9 +68,9 @@
     "slug": "rsshub",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 501,
     "timeDay": 548,
@@ -78,7 +78,7 @@
     "timeMonth": 489,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2022-01-23": 0,
+      "2022-01-23": 9,
       "2022-01-06": 16,
       "2021-09-20": 21
     }
@@ -88,11 +88,11 @@
     "url": "https://chevereto.left.pink/",
     "icon": "https://favicons.githubusercontent.com/chevereto.left.pink",
     "slug": "chevereto",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.88%",
     "time": 890,
     "timeDay": 607,
@@ -100,6 +100,7 @@
     "timeMonth": 665,
     "timeYear": 890,
     "dailyMinutesDown": {
+      "2022-01-23": 4,
       "2021-12-13": 92,
       "2021-10-30": 116,
       "2021-09-20": 20
@@ -110,11 +111,11 @@
     "url": "$BITWARDEN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 484,
     "timeDay": 420,
@@ -122,6 +123,7 @@
     "timeMonth": 471,
     "timeYear": 484,
     "dailyMinutesDown": {
+      "2022-01-23": 3,
       "2021-09-20": 20
     }
   },
@@ -130,18 +132,20 @@
     "url": "$ACTIVATION",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "activation-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 417,
     "timeDay": 384,
     "timeWeek": 445,
     "timeMonth": 463,
     "timeYear": 417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-23": 3
+    }
   },
   {
     "name": "CloudPowerall",
@@ -246,18 +250,19 @@
     "url": "$CALIBRE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "calibre",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.90%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.89%",
     "time": 852,
     "timeDay": 680,
     "timeWeek": 740,
     "timeMonth": 820,
     "timeYear": 852,
     "dailyMinutesDown": {
+      "2022-01-23": 2,
       "2022-01-06": 181,
       "2021-09-20": 19
     }
@@ -267,10 +272,10 @@
     "url": "https://ttrss.left.pink",
     "icon": "https://favicons.githubusercontent.com/ttrss.left.pink",
     "slug": "ttrss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 506,
@@ -279,6 +284,7 @@
     "timeMonth": 489,
     "timeYear": 506,
     "dailyMinutesDown": {
+      "2022-01-23": 1,
       "2022-01-06": 20,
       "2021-09-20": 19
     }
