@@ -156,9 +156,9 @@
     "url": "$CLOUDPOWERALL_IP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-powerall",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -167,7 +167,9 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 35,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   },
   {
     "name": "Racknerd",
