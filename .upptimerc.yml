@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Blog
-    url: https://left.pink/
+    url: https://blog.left.pink/
   - name: L-Clock Document
     url: https://lclock.leftapp.pink/
   - name: Rsshub
@@ -17,10 +17,10 @@ sites:
     url: $ACTIVATION
   #- name: Code Server A
   #  url: $CODE_SERVER_A
-  - name: CloudPowerall
-    check: "tcp-ping"
-    url: $CLOUDPOWERALL_IP
-    port: $CLOUDPOWERALL_PORT
+  #- name: CloudPowerall
+  #  check: "tcp-ping"
+  #  url: $CLOUDPOWERALL_IP
+  #  port: $CLOUDPOWERALL_PORT
   - name: Racknerd
     check: "tcp-ping"
     url: $RACKNERD_IP
