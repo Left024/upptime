@@ -156,9 +156,9 @@
     "url": "$RACKNERD_IP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "racknerd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -167,7 +167,9 @@
     "timeWeek": 39,
     "timeMonth": 36,
     "timeYear": 37,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-28": 0
+    }
   },
   {
     "name": "PT",
@@ -240,11 +242,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "calibre",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.01%",
     "time": 857,
     "timeDay": 970,
     "timeWeek": 900,
