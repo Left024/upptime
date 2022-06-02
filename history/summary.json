@@ -331,19 +331,19 @@
     "url": "$DRIVE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "drive",
-    "status": "down",
-    "uptime": "80.88%",
-    "uptimeDay": "80.88%",
-    "uptimeWeek": "80.88%",
-    "uptimeMonth": "80.88%",
-    "uptimeYear": "80.88%",
-    "time": 680,
-    "timeDay": 680,
-    "timeWeek": 680,
-    "timeMonth": 680,
-    "timeYear": 680,
+    "status": "up",
+    "uptime": "65.60%",
+    "uptimeDay": "65.60%",
+    "uptimeWeek": "65.60%",
+    "uptimeMonth": "65.60%",
+    "uptimeYear": "65.60%",
+    "time": 713,
+    "timeDay": 713,
+    "timeWeek": 713,
+    "timeMonth": 713,
+    "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-06-02": 53
+      "2022-06-02": 119
     }
   }
 ]
